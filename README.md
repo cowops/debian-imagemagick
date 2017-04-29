@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-imagemagick }
+         - { role: cowops.debian-imagemagick }
 
 Tasks
 -----
